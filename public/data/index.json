@@ -1,0 +1,253 @@
+{
+  "totalSongs": 861,
+  "totalLyrics": 773,
+  "albums": [
+    {
+      "id": 1,
+      "name": "十一月的萧邦",
+      "artist": "周杰伦",
+      "cover": "images/covers/album1.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 2,
+      "name": "叶惠美",
+      "artist": "周杰伦",
+      "cover": "images/covers/album2.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 3,
+      "name": "七里香",
+      "artist": "周杰伦",
+      "cover": "images/covers/album3.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 4,
+      "name": "魔杰座",
+      "artist": "周杰伦",
+      "cover": "images/covers/album4.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 5,
+      "name": "周杰伦的床边故事",
+      "artist": "周杰伦",
+      "cover": "images/covers/album5.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 6,
+      "name": "光年之外",
+      "artist": "邓紫棋",
+      "cover": "images/covers/album6.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 7,
+      "name": "Xposed",
+      "artist": "邓紫棋",
+      "cover": "images/covers/album7.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 8,
+      "name": "绅士",
+      "artist": "薛之谦",
+      "cover": "images/covers/album8.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 9,
+      "name": "起风了",
+      "artist": "买辣椒也用券",
+      "cover": "images/covers/album9.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 10,
+      "name": "猎户星座",
+      "artist": "朴树",
+      "cover": "images/covers/album10.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 11,
+      "name": "那些年",
+      "artist": "胡夏",
+      "cover": "images/covers/album11.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 12,
+      "name": "风来的方向",
+      "artist": "晨晨",
+      "cover": "images/covers/album12.jpg",
+      "songCount": 1
+    },
+    {
+      "id": 13,
+      "name": "梦底",
+      "artist": "海来阿木",
+      "cover": "images/梦底.jpg",
+      "songCount": 1
+    },
+    {
+      "id": 14,
+      "name": "国风精选",
+      "artist": "群星",
+      "cover": "images/covers/guofeng.jpg",
+      "songCount": 71
+    },
+    {
+      "id": 16,
+      "name": "许巍",
+      "artist": "许巍",
+      "cover": "images/covers/xuwei.jpg",
+      "songCount": 9
+    },
+    {
+      "id": 17,
+      "name": "欢子",
+      "artist": "",
+      "cover": "images/covers/huanzi.jpg",
+      "songCount": 10
+    },
+    {
+      "id": 18,
+      "name": "凤凰传奇",
+      "artist": "",
+      "cover": "images/covers/32d37eb29697_cover.jpg",
+      "songCount": 6
+    },
+    {
+      "id": 19,
+      "name": "橘子味的夏天",
+      "artist": "",
+      "cover": "images/covers/summer_orange_cover.jpg",
+      "songCount": 15
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "name": "华语经典",
+      "description": "精选华语经典歌曲，带你重温那些年的感动",
+      "cover": "images/covers/playlist1.jpg",
+      "songCount": 4
+    },
+    {
+      "id": 2,
+      "name": "流行热歌",
+      "description": "当下最火的流行歌曲，紧跟音乐潮流",
+      "cover": "images/covers/playlist2.jpg",
+      "songCount": 16
+    },
+    {
+      "id": 3,
+      "name": "治愈系",
+      "description": "温暖治愈的音乐，抚慰疲惫的心灵",
+      "cover": "images/covers/playlist3.jpg",
+      "songCount": 0
+    },
+    {
+      "id": 4,
+      "name": "周杰伦精选",
+      "description": "周杰伦经典歌曲合集",
+      "cover": "images/covers/playlist4.jpg",
+      "songCount": 13
+    },
+    {
+      "id": 5,
+      "name": "一曲一悲欢",
+      "description": "精选古风、仙侠、游戏同人国风歌曲，带你领略华夏音乐之美。琴瑟和鸣，剑影江湖，一曲肝肠断，天涯何处觅知音。",
+      "cover": "images/covers/guofeng.jpg",
+      "songCount": 68
+    },
+    {
+      "id": 6,
+      "name": "怀旧经典",
+      "description": "怀旧经典 · 彩铃黄金年代 48 首网络歌曲合集，刻在 80、90 后青春里的终极回忆杀",
+      "cover": "images/covers/1685cff3aa4f_cover.jpg",
+      "songCount": 51
+    },
+    {
+      "id": 7,
+      "name": "少年歌行",
+      "description": "少年歌行，青春无畏。汇聚热血、励志、感动，献给每一个追梦的少年。",
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/7a3c9e1f4b8d_cover.jpg",
+      "songCount": 285
+    },
+    {
+      "id": 8,
+      "name": "【河图】世上尽灯火",
+      "description": "河图精选合集，世上尽灯火，一曲江湖梦。墨明棋妙核心成员，古风音乐领军人物。",
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/ae853ad9cf93_cover.jpg",
+      "songCount": 70
+    },
+    {
+      "id": 9,
+      "name": "华语伤感女声 | 往事有伤 回忆无声",
+      "description": "细心聆听那些触动你内心的华语伤感女声",
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/04d91381ae11_cover.jpg",
+      "songCount": 97
+    },
+    {
+      "id": 10,
+      "name": "听邓紫棋热门精选",
+      "description": "为你精选邓紫棋的必听好歌",
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/f5423f32c7bb_cover.jpg",
+      "songCount": 27
+    },
+    {
+      "id": 11,
+      "name": "减压轻音乐， 舒缓放松大脑，治愈心情",
+      "description": "减压轻音乐， 舒缓放松大脑，治愈心情",
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/93056fbbe201_cover.jpg",
+      "songCount": 210
+    }
+  ],
+  "categories": [
+    {
+      "id": "guofeng",
+      "name": "国风歌曲",
+      "count": 71
+    },
+    {
+      "id": "xuwei",
+      "name": "许巍专辑",
+      "count": 9
+    },
+    {
+      "id": "fhcq",
+      "name": "凤凰传奇",
+      "count": 6
+    },
+    {
+      "id": "pop",
+      "name": "流行热歌",
+      "count": 347
+    },
+    {
+      "id": "8090",
+      "name": "怀旧经典",
+      "count": 48
+    },
+    {
+      "id": "zhoujielun",
+      "name": "周杰伦精选",
+      "count": 13
+    },
+    {
+      "id": "shaoniangexing",
+      "name": "少年歌行",
+      "count": 285
+    },
+    {
+      "id": "hetu",
+      "name": "【河图】世上尽灯火",
+      "count": 70
+    }
+  ]
+}
