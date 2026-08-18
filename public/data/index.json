@@ -1,6 +1,6 @@
 {
-  "totalSongs": 861,
-  "totalLyrics": 773,
+  "totalSongs": 1076,
+  "totalLyrics": 954,
   "albums": [
     {
       "id": 1,
@@ -206,6 +206,13 @@
       "description": "减压轻音乐， 舒缓放松大脑，治愈心情",
       "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/93056fbbe201_cover.jpg",
       "songCount": 210
+    },
+    {
+      "id": 12,
+      "name": "华语经典 | 那些属于我们青春的一首歌曲",
+      "description": "90后经典怀旧歌曲 时光会流逝，旋律会长存。 你是否还记得当年哼在嘴边的那句副歌？ 如今...",
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/95e66d779c7f_cover.jpg",
+      "songCount": 215
     }
   ],
   "categories": [
@@ -227,7 +234,7 @@
     {
       "id": "pop",
       "name": "流行热歌",
-      "count": 347
+      "count": 562
     },
     {
       "id": "8090",
