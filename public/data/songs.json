@@ -9832,6 +9832,222 @@
       "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/c9a99e5e865d_cover.jpg",
       "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/c9a99e5e865d.mp3",
       "genre": "pop"
+    },
+    {
+      "id": 1177,
+      "title": "世外桃源",
+      "artist": "许巍",
+      "duration": 287,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/0b961fc918bf_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/0b961fc918bf.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1178,
+      "title": "九月",
+      "artist": "许巍",
+      "duration": 208,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/8c03aa2926b5_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/8c03aa2926b5.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1179,
+      "title": "四季",
+      "artist": "许巍",
+      "duration": 297,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/d97204cacb1a_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/d97204cacb1a.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1180,
+      "title": "在这里",
+      "artist": "许巍",
+      "duration": 288,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/5c48f6e05621_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/5c48f6e05621.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1181,
+      "title": "完美生活(Live)",
+      "artist": "许巍",
+      "duration": 375,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/85a16c64bf87_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/85a16c64bf87.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1182,
+      "title": "家",
+      "artist": "许巍",
+      "duration": 283,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/0384d541b62c_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/0384d541b62c.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1183,
+      "title": "我们",
+      "artist": "许巍",
+      "duration": 305,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/853d146e8f71_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/853d146e8f71.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1184,
+      "title": "我的爱",
+      "artist": "许巍",
+      "duration": 212,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/b4486f2ecfd8_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/b4486f2ecfd8.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1185,
+      "title": "故乡(Live)",
+      "artist": "许巍",
+      "duration": 367,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/c80b08288633_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/c80b08288633.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1186,
+      "title": "故事",
+      "artist": "许巍",
+      "duration": 260,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/0a6bf3fbacdc_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/0a6bf3fbacdc.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1187,
+      "title": "无尽光芒",
+      "artist": "许巍",
+      "duration": 278,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/8838b93bdbc8_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/8838b93bdbc8.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1188,
+      "title": "春海",
+      "artist": "许巍",
+      "duration": 210,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/c1fc15047bdd_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/c1fc15047bdd.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1189,
+      "title": "晴朗",
+      "artist": "许巍",
+      "duration": 365,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/a620dbed87dc_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/a620dbed87dc.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1190,
+      "title": "此时此刻",
+      "artist": "许巍",
+      "duration": 402,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/8b7090f1f5a0_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/8b7090f1f5a0.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1191,
+      "title": "温暖",
+      "artist": "许巍",
+      "duration": 283,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/03d3b5c4b7db_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/03d3b5c4b7db.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1192,
+      "title": "漫步",
+      "artist": "许巍",
+      "duration": 254,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/d7877240d293_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/d7877240d293.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1193,
+      "title": "灵岩",
+      "artist": "许巍",
+      "duration": 275,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/012348357742_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/012348357742.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1194,
+      "title": "灿烂",
+      "artist": "许巍",
+      "duration": 256,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/97a2f3bb3eac_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/97a2f3bb3eac.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1195,
+      "title": "爱情",
+      "artist": "许巍",
+      "duration": 321,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/5cab157a2c9e_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/5cab157a2c9e.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1196,
+      "title": "礼物",
+      "artist": "许巍",
+      "duration": 323,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/67741fe48ae7_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/67741fe48ae7.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1197,
+      "title": "空谷幽兰",
+      "artist": "许巍",
+      "duration": 356,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/a88a2bb608fb_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/a88a2bb608fb.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1198,
+      "title": "第三极",
+      "artist": "许巍",
+      "duration": 227,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/ebc7dbb9ea12_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/ebc7dbb9ea12.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1199,
+      "title": "逍遥行",
+      "artist": "许巍",
+      "duration": 246,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/60be83094249_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/60be83094249.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1200,
+      "title": "那一年",
+      "artist": "许巍",
+      "duration": 248,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/8ea854cf9a50_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/8ea854cf9a50.mp3",
+      "genre": "pop"
     }
   ]
 }
