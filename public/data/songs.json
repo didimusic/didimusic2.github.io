@@ -10048,6 +10048,276 @@
       "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/8ea854cf9a50_cover.jpg",
       "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/8ea854cf9a50.mp3",
       "genre": "pop"
+    },
+    {
+      "id": 1201,
+      "title": "After LIKE",
+      "artist": "IVE",
+      "duration": 177,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/77be67edf016_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/77be67edf016.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1202,
+      "title": "After LIKE -Japanese ver.-",
+      "artist": "IVE",
+      "duration": 178,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/70de5c76d0c6_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/70de5c76d0c6.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1203,
+      "title": "All Night",
+      "artist": "IVE; Saweetie",
+      "duration": 198,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/a13004d1546a_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/a13004d1546a.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1204,
+      "title": "Baddie",
+      "artist": "IVE",
+      "duration": 154,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/30a5f5e1724f_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/30a5f5e1724f.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1205,
+      "title": "Blue Blood",
+      "artist": "IVE",
+      "duration": 168,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/1ca03fab489f_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/1ca03fab489f.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1206,
+      "title": "Cherish",
+      "artist": "IVE",
+      "duration": 195,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/33e1f792d94d_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/33e1f792d94d.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1207,
+      "title": "Classic",
+      "artist": "IVE",
+      "duration": 213,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/9131b0ffbe92_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/9131b0ffbe92.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1208,
+      "title": "ELEVEN (Live)",
+      "artist": "IVE",
+      "duration": 178,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/cad4d6fccc93_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/cad4d6fccc93.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1209,
+      "title": "ELEVEN -Japanese ver.-",
+      "artist": "IVE",
+      "duration": 179,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/d888fab14bc9_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/d888fab14bc9.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1210,
+      "title": "Either Way",
+      "artist": "IVE",
+      "duration": 167,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/a93681d33b90_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/a93681d33b90.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1211,
+      "title": "Heroine",
+      "artist": "IVE",
+      "duration": 172,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/4c996207609a_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/4c996207609a.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1212,
+      "title": "Holy Moly",
+      "artist": "IVE",
+      "duration": 177,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/2168217600db_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/2168217600db.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1213,
+      "title": "I AM",
+      "artist": "IVE",
+      "duration": 184,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/e331971e674c_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/e331971e674c.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1214,
+      "title": "I WANT",
+      "artist": "IVE",
+      "duration": 181,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/240e18d6e6a1_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/240e18d6e6a1.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1215,
+      "title": "Kitsch",
+      "artist": "IVE",
+      "duration": 195,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/aa0d0b5ad024_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/aa0d0b5ad024.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1216,
+      "title": "LOVE DIVE (basecamp remix)",
+      "artist": "basecamp,IVE",
+      "duration": 173,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/default_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/2ec7d31daff7.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1217,
+      "title": "LOVE DIVE -Japanese ver.-",
+      "artist": "IVE",
+      "duration": 178,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/6eeadbeac3fd_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/6eeadbeac3fd.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1218,
+      "title": "LUCID DREAM",
+      "artist": "IVE",
+      "duration": 207,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/9aa8453014ac_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/9aa8453014ac.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1219,
+      "title": "Lips",
+      "artist": "IVE",
+      "duration": 181,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/301d9aba47d2_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/301d9aba47d2.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1220,
+      "title": "Mine",
+      "artist": "IVE",
+      "duration": 190,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/ea5f4277e133_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/ea5f4277e133.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1221,
+      "title": "My Satisfaction",
+      "artist": "IVE",
+      "duration": 193,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/6912ca33e1f2_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/6912ca33e1f2.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1222,
+      "title": "NOT YOUR GIRL",
+      "artist": "IVE",
+      "duration": 202,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/a8c213f606bf_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/a8c213f606bf.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1223,
+      "title": "OTT",
+      "artist": "IVE",
+      "duration": 157,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/99517dbc5748_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/99517dbc5748.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1224,
+      "title": "Off the Record",
+      "artist": "IVE",
+      "duration": 189,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/9b758f8c8ed3_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/9b758f8c8ed3.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1225,
+      "title": "Payback",
+      "artist": "IVE",
+      "duration": 188,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/dbeaed607900_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/dbeaed607900.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1226,
+      "title": "ROYAL",
+      "artist": "IVE",
+      "duration": 206,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/ebcf5b5e0d42_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/ebcf5b5e0d42.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1227,
+      "title": "Take It",
+      "artist": "IVE",
+      "duration": 205,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/a32bff02d550_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/a32bff02d550.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1228,
+      "title": "WAVE",
+      "artist": "IVE",
+      "duration": 176,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/56e27c073127_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/56e27c073127.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1229,
+      "title": "궁금해 (Next Page)",
+      "artist": "IVE",
+      "duration": 199,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/2fbea3a07b28_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/2fbea3a07b28.mp3",
+      "genre": "pop"
+    },
+    {
+      "id": 1230,
+      "title": "섬찟 (Hypnosis)",
+      "artist": "IVE",
+      "duration": 147,
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/4e23b6736129_cover.jpg",
+      "audioUrl": "https://didimusic.github.io/didimusic2.github.io/audio/4e23b6736129.mp3",
+      "genre": "pop"
     }
   ]
 }

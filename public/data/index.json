@@ -1,6 +1,6 @@
 {
-  "totalSongs": 1100,
-  "totalLyrics": 978,
+  "totalSongs": 1130,
+  "totalLyrics": 1007,
   "albums": [
     {
       "id": 1,
@@ -220,6 +220,13 @@
       "description": "听许巍热门精选",
       "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/0b961fc918bf_cover.jpg",
       "songCount": 24
+    },
+    {
+      "id": 14,
+      "name": "听IVE热门精选 | 可盐可甜 风格无限的K泡芙",
+      "description": "IVE是韩国STARSHIP娱乐旗下女子偶像团体，由安宥真、秋天、张员瑛、LIZ、Rei、Leeseo...",
+      "cover": "https://didimusic.github.io/didimusic2.github.io/images/covers/77be67edf016_cover.jpg",
+      "songCount": 30
     }
   ],
   "categories": [
@@ -241,7 +248,7 @@
     {
       "id": "pop",
       "name": "流行热歌",
-      "count": 586
+      "count": 616
     },
     {
       "id": "8090",
